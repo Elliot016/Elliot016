@@ -8,9 +8,9 @@ I'm passionate about creating software that makes a positive impact on people's 
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [elliot.carmona016@gmail.com](mailto:elliot.carmona016@gmail.com)
-* 🧠  I'm learning Typescript and brushing up on my React and JavaScript
+* 🧠  I'm learning Flutter & Dart and brushing up on my React and JavaScript
 * 🤝  I'm open to collaborating on Projects
-* ⚡  My name is Jeff (Thick Accent)
+
 
 ### Skills
 
