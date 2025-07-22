@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Elliot Carmona
 ===================================================================================================================================================================================================
 
-🚀 Full-stack Developer
+🚀 Software Engineer
 -----------------------
 
 I'm passionate about creating software that makes a positive impact on people's lives. My work spans a wide range of technologies, including JavaScript, React, Typescript, mySQL, Node.JS, and dabbling in Flutter.
